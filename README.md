@@ -1,4 +1,13 @@
 # 🏭 Manufacturing AI Platform
+<img width="958" height="447" alt="p1" src="https://github.com/user-attachments/assets/1b5970a2-c393-4373-9ca4-ae8267acabd7" />
+<img width="958" height="446" alt="p2" src="https://github.com/user-attachments/assets/1fa18750-fb22-4780-b27f-93154bedbc4e" />
+<img width="960" height="442" alt="p3" src="https://github.com/user-attachments/assets/448d51ce-6a1c-4dc0-b03a-98dc471e92c7" />
+<img width="958" height="449" alt="p4" src="https://github.com/user-attachments/assets/869911d4-9a25-4413-841a-cd1341da1d80" />
+<img width="960" height="446" alt="p5" src="https://github.com/user-attachments/assets/0319af3c-8c35-4a2b-a87b-fa01988d9aa9" />
+<img width="960" height="446" alt="p6" src="https://github.com/user-attachments/assets/cef32be0-67ff-4e85-944b-c35284915fc9" />
+<img width="960" height="449" alt="p7" src="https://github.com/user-attachments/assets/d7d660d6-a0fe-4a26-87d9-fc306a518c40" />
+<img width="960" height="446" alt="p8" src="https://github.com/user-attachments/assets/2c2bc08b-071b-40b2-9702-6586bf89de5c" />
+<img width="960" height="442" alt="p9" src="https://github.com/user-attachments/assets/a990b785-f3cb-4c86-a345-535003a5c0f5" />
 
 > **AI-Powered Quality Inspection & Root Cause Analysis System**  
 > Built by **Sana Cheema** | AIVONEX SMC-PVT LTD
